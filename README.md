@@ -9,15 +9,15 @@ A comprehensive Flutter plugin for displaying AR models with intelligent caching
 ## Demo
 
 <p align="center">
-  <video width="300" controls>
-    <source src="https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+  <a href="https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov">
+    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
   <br/>
-  <em>Plugin in Action</em>
+  <br/>
+  🎬 <strong><a href="https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov">Click here to watch the demo video</a></strong>
+  <br/>
+  <em>See Cashed AR in action with real AR model viewing and caching</em>
 </p>
-
-🎬 [**Watch Demo Video**](https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov)
 
 ## Features
 
