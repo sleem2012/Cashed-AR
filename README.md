@@ -6,18 +6,11 @@
 
 A comprehensive Flutter plugin for displaying AR models with intelligent caching on both Android and iOS platforms. Perfect for e-commerce apps, product catalogs, and any application that needs to display 3D models with AR functionality.
 
-## Demo
+## 🎬 Demo
 
-<p align="center">
-  <a href="https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov">
-    <img src="https://img.shields.io/badge/▶️%20Watch%20Demo-Video-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
-  </a>
-  <br/>
-  <br/>
-  🎬 <strong><a href="https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov">Click here to watch the demo video</a></strong>
-  <br/>
-  <em>See Cashed AR in action with real AR model viewing and caching</em>
-</p>
+**[📱 Click here to watch the demo video →](https://github.com/sleem2012/Cashed-AR/raw/main/demo/cashed_ar_demo.mov)**
+
+*See Cashed AR in action with real AR model viewing and intelligent caching*
 
 ## Features
 
