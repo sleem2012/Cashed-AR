@@ -1,0 +1,13 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+  package="com.ahmedsleem.cashed_ar">
+
+  <!-- Required permissions for AR functionality -->
+  <uses-permission android:name="android.permission.INTERNET" />
+  <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+  <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+  
+  <!-- AR Core support -->
+  <uses-feature android:name="android.hardware.camera.ar" android:required="false" />
+  <uses-feature android:name="android.hardware.camera" android:required="false" />
+  
+</manifest>

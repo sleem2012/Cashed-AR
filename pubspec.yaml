@@ -1,0 +1,41 @@
+name: cashed_ar
+description: A Flutter plugin for displaying AR models with intelligent caching on both Android and iOS platforms.
+version: 1.0.0
+homepage: https://github.com/sleem2012/Cashed-AR
+repository: https://github.com/sleem2012/Cashed-AR
+issue_tracker: https://github.com/sleem2012/Cashed-AR/issues
+documentation: https://github.com/sleem2012/Cashed-AR/blob/main/README.md
+maintainer: Ahmed Sleem <ahmedslem779@gmail.com>
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.3.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  plugin_platform_interface: ^2.0.2
+  model_viewer_plus: ^1.7.2
+  dio: ^5.3.2
+  path_provider: ^2.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  plugin:
+    platforms:
+      android:
+        package: com.ahmedsleem.cashed_ar
+        pluginClass: CashedArPlugin
+      ios:
+        pluginClass: CashedArPlugin
+
+topics:
+  - ar
+  - augmented-reality
+  - caching
+  - model-viewer
+  - 3d-models

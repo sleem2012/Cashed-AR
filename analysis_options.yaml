@@ -1,0 +1,10 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional lint rules for the package
+linter:
+  rules:
+    # Enable additional rules
+    prefer_single_quotes: true
+    require_trailing_commas: true
+    sort_pub_dependencies: true
+    lines_longer_than_80_chars: false
