@@ -1,0 +1,2 @@
+# Exclude demo files from pub.dev package
+demo/
